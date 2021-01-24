@@ -1,5 +1,5 @@
 /*========================================
-    ==== Start Media Query ====  
+    ==== Start Media Query ====
 ========================================*/
 /* Midium screens ----------- */
 @media (min-width:1300px){
@@ -14,22 +14,6 @@
 .rzm_Testimonial .carousel-indicators {
     bottom: 10px;
     left: 233px;
-}
-	.rzm_contact .input-group:nth-child(1){
-	float:left !important;
-	padding-left: 0px !important;
-	
-}
-	.rzm_contact .input-group:nth-child(3){
-	float:left !important;
-	padding-right:0px !important;
-	
-}
-	.rzm_contact .input-group:nth-child(5){
-	float:left !important;
-	padding-left:0px !important;
-	padding-right:0px !important;
-	
 }
 
 }
@@ -49,14 +33,14 @@
 	.thumbnail .caption{
 	padding-left:30px !important;
 }
-	
+
 }
 
 
 /*Mobile Menu Css*/
 
-@media (max-width:767px) { 
-	
+@media (max-width:767px) {
+
 	h1.title{
 	padding: 90px 0 18px 0;
 	font-size: 24px;
@@ -84,8 +68,8 @@
 	.caption blockquote small {
     line-height: 18px !important;
 }
-	
-	
+
+
 .rez_top_title h1{
 	color: #404040;
 	font-size: 24px;
@@ -129,7 +113,7 @@ body.slide-active {
     padding: 10px 0 0 0;
     border: 0;
     background: transparent;
-	
+
 }
 	#slide-nav  .navbar-toggle:before{
 font-family: FontAwesome;
@@ -147,7 +131,7 @@ margin-top: 5px;
 	content: "\f00d";
 	font-family: FontAwesome;
 	color: #fff;
-		
+
 	}
 #slide-nav .navbar-toggle.slide-active .icon-bar {
     background: #fff;
@@ -202,7 +186,7 @@ margin-top: 5px;
 	#slide-nav.navbar-inverse #slidemenu {
 	    background: #333
 	}
-	
+
 	#navbar-height-col {
 	    position: fixed;
 	    top: 0;
@@ -222,7 +206,7 @@ margin-top: 5px;
 	    margin: 8px 0;
 	    text-align: center;
 	    overflow: hidden;
-	 
+
 	}
 	#slide-nav .navbar-form .form-control {
 	    text-align: center
@@ -231,14 +215,14 @@ margin-top: 5px;
 	    width: 100%
 	}
 	#slidemenu ul li {
-    position: relative; 
+    position: relative;
     line-height: 20px;
     display: inline-block;
     width: 100%;
 }
 	.navbar-header.slide-active{
 		z-index: 999999;
-		
+
 	}
 
 #slidemenu ul li:before {
@@ -270,7 +254,7 @@ margin-top: 5px;
     display: block;
     color: #ddd;
     text-decoration: none;
-    padding: 10px 15px 10px 30px;    
+    padding: 10px 15px 10px 30px;
 }
 
 #slidemenu li a:hover,
@@ -339,7 +323,7 @@ left:25%;
 }
 	.thumbnail.adjust1 .media-object{
 		margin-bottom: 10px;
-		
+
 	}
 	.rzm_client p{
 	margin: 0px 0 30px 0;
@@ -402,7 +386,7 @@ position: absolute;
 }
 	.navbar-nav {
     margin: 0 auto;
-}  
+}
 	.rez_top_title p {
     font-size: 18px;
     margin-top: 0px;
@@ -417,7 +401,7 @@ position: absolute;
 	.caption blockquote p {
 		text-align: right;
 	}
-	
+
 	#page-content {
 	    left: 0!important
 	}
@@ -493,6 +477,6 @@ span.rzm_importo {
 }
 
 /*========================================
-    ==== End Media Query ====  
+    ==== End Media Query ====
 ========================================*/
 
